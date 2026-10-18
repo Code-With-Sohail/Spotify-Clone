@@ -1,0 +1,4 @@
+let url1 = "https://official-joke-api.appspot.com/random_joke";
+let url3 = "https://api.exchangerate-api.com/v4/latest/USD";
+let url4 = "https://flagcdn.com/w40/pk.png";
+let url = "https://itunes.apple.com/search?term=eminem&media=music&limit=8";
